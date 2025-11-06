@@ -7,9 +7,9 @@ Full-stack Software Engineer passionate about crafting responsive front-ends, ro
 Exploring new ways to automate, secure, and optimize software delivery through **DevOps** and **DevSecOps** practices.
 
 🛠️ **Tech Stack**  
-**Frontend:** HTML, CSS, JavaScript, React 
-**Backend:** PHP, Laravel Framework
-**DevOps & Security:** Docker, Kubernates (K8s), Jenkins, GitHub Actions, CI/CD, Linux, Nginx, DevSecOps
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** PHP, Laravel Framework  
+**DevOps & Security:** Docker, Kubernates (K8s), Jenkins, GitHub Actions, CI/CD, Linux, Nginx, DevSecOps  
 
 💼 **What I’m Passionate About**  
 - Building modern web apps with React & Laravel  
@@ -19,8 +19,8 @@ Exploring new ways to automate, secure, and optimize software delivery through *
 
 
 📫 **Get in Touch**  
-📧 omer.hamajan@gmail.com
-🌐 [YourPortfolio.com](#)
+📧 omer.hamajan@gmail.com  
+🌐 Comming Soon!  
 
 ⚙️ “Code smart, build better, automate everything.”
 ⚙️ *“Why do it manually instead you can automate it securely?”*
