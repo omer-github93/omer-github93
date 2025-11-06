@@ -20,7 +20,7 @@ Exploring new ways to automate, secure, and optimize software delivery through *
 
 📫 **Get in Touch**  
 📧 omer.hamajan@gmail.com  
-🌐 Comming Soon!  
+🌐 Coming Soon!  
 
 ⚙️ “Code smart, build better, automate everything.”  
 ⚙️ *“Why do it manually instead you can automate it securely?”*
