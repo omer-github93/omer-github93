@@ -20,93 +20,46 @@ Exploring new ways to automate, secure, and optimize software delivery through *
 
 📫 **Get in Touch**  
 📧 omer.hamajan@gmail.com  
-🌐 Coming Soon!  
+🌐 https://omertech.vercel.app
 
 ⚙️ “Code smart, build better, automate everything.”  
 ⚙️ *“Why do it manually instead you can automate it securely?”*
 
-### 🛠️ Languages and Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
-      <br>Kali Linux
-    </td>
-    
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
+## 🛠️ Languages & Tools
+ 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omer-github93&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omer-github93&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-github93&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-github93&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,js,html,css,bootstrap,git,linux,kali&theme=dark" />
 </div>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=omer-github93&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
----
-
-### 📈 Contribution Stats
-
+## 📊 GitHub Analytics
+ 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omer-github93&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omer-github93&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omer-github93&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omer-github93&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omer-github93&theme=radical" alt="Most Commit Language" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-github93&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 </div>
+<br/>
 
+
+## 🗂️ Profile Summary
+ 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omer-github93&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omer-github93&theme=radical" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omer-github93&theme=radical" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omer-github93&theme=radical" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omer-github93&theme=radical" width="32%" alt="Stats" />
 </div>
+<br/>
 
----
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=omer-github93&color=1a1a2e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/omer-github93?label=FOLLOWERS&style=for-the-badge&color=1a1a2e" alt="Followers" />
+<img src="https://img.shields.io/github/stars/omer-github93?label=TOTAL+STARS&style=for-the-badge&color=1a1a2e" alt="Total Stars" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+ 
